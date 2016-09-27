@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="Extract cale-war-1.20.10-SNAPSHOT" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-cale.ear cale-war-1.20.11-SNAPSHOT" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/cale/ear/target" />
+    </exec>
+  </tool>
+  <tool name="Extract gro-war-3.08.01-SNAPSHOT" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-grop.ear groplus-war-3.08.01-SNAPSHOT" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/grop/ear/target" />
+    </exec>
+  </tool>
+  <tool name="Extract rela-war-2.07.00-SNAPSHOT" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-rela.ear  rela-war-2.07.00-SNAPSHOT" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/rela/ear/target" />
+    </exec>
+  </tool>
+  <tool name="Extract gro-war-3.08.03" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-grop.ear groplus-war-3.08.03" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/grop/ear/target" />
+    </exec>
+  </tool>
+</toolSet>

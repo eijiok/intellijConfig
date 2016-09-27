@@ -1,0 +1,104 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="OR_HML_MVAR" uuid="73397220-bff1-4d9f-9def-03cc1ab211eb">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_DEV_LL" uuid="263e6a55-b8d3-4f30-878d-e5f293e52997">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="safra" uuid="82529f4a-4bc1-4431-b610-5824b61c2f79">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://SQL2008_64:1433;databaseName=OR_SAFRA_HML</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_HML_SANTANDER" uuid="575b0ead-9c32-4e8f-8a2d-78dcf274e6e9">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="mdic_prod_10000" uuid="a07069db-44e7-4799-9d97-0d303ad61eb6">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="local - OR_DEV_LL" uuid="26e5386b-a99a-4212-bc64-6c8127fffa86">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_DEV_MM" uuid="a7ba6c96-1fa5-4fc3-80cd-8baabc26a0fe">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_HML_CBSS" uuid="4c9e4477-7a45-4c3c-85b3-f11556d94232">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ALELO - SIT" read-only="true" uuid="89b82c53-ef8e-4a49-b4ba-e6fabadac22c">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//10.151.10.52:1521/iriscol</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_PRD_SANTANDER" uuid="7e2b6b08-31ce-4bde-960c-f340c365cf43">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_NEW_HML_CBSS" uuid="ecc3a82a-eecd-42f4-9b61-5f1a84aab790">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MAPS_JAAS" uuid="bde4e9c1-0dea-45f5-8e64-0df150266b0c">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="system" uuid="aecce6d1-6e74-40a1-83da-1e4f9b779f84">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ALELO - UAT" uuid="c8d370c1-9ac4-4a7e-b179-465d2a3f1cfd">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//10.151.10.52:1521/hriscol</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_HML_PETRA" uuid="7595e470-91ad-44ba-92f5-4182e422a521">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_HML_FUNCEF" uuid="bfbc9b06-9244-40d2-a843-182bc32c23a8">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="OR_PRD_SNTD" uuid="b0e61fbc-8c81-4cc7-ba9b-987db12222f3">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//phoenix:1521/or</jdbc-url>
+    </data-source>
+  </component>
+</application>
