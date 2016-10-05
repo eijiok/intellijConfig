@@ -6,6 +6,10 @@
           <option name="url" value="http://git/git/shared/ro/corporate-data-service.git/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git/git/products/ro/intc/santander.git/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\environment\prj" />
