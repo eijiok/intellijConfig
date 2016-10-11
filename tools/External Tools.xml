@@ -22,9 +22,9 @@
   </tool>
   <tool name="extract ear rela-war-2.07.00-SNAPSHOT" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="H:\environment\bat\extractear.bat" />
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
       <option name="PARAMETERS" value="mvar-rela.ear  rela-war-2.07.00-SNAPSHOT" />
-      <option name="WORKING_DIRECTORY" value="H:/environment/prj/rela/ear/target" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/rela/ear/target" />
     </exec>
   </tool>
 </toolSet>
