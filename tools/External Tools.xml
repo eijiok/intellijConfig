@@ -27,11 +27,11 @@
       <option name="WORKING_DIRECTORY" value="C:/environment/prj/rela/ear/target" />
     </exec>
   </tool>
-  <tool name="extract ear intg-war-2.06.00-SNAPSHOT" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="extract ear intg-war-2.06.00-SNAPSHOT " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
-      <option name="PARAMETERS" value="mvar-intg.ear  intg-war-2.06.00-SNAPSHOT" />
-      <option name="WORKING_DIRECTORY" value="C:/environment/prj/intg/ear/target" />
+      <option name="COMMAND" value="H:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-intg.ear intg-war-2.06.00-SNAPSHOT " />
+      <option name="WORKING_DIRECTORY" value="H:/environment/prj/intg/ear/target" />
     </exec>
   </tool>
 </toolSet>
