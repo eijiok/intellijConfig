@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="report_3" type="PLAIN_TEXT" />
       <mapping pattern="emptyFile" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="hmx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
