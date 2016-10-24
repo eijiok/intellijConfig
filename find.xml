@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.jsp,*.html,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,6 +22,7 @@
       <mask>*.java</mask>
       <mask>registry*.xml</mask>
       <mask>*.sql</mask>
+      <mask>*.jsp,*.html,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
