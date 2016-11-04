@@ -23,6 +23,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="ENABLE_SYNC_SCROLL" value="false" />
         </PlaceSettings>
       </entry>
