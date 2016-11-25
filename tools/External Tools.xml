@@ -48,4 +48,11 @@
       <option name="WORKING_DIRECTORY" value="C:/environment/prj/rela/ear/target" />
     </exec>
   </tool>
+  <tool name="extract_ear groplus-war-3.10.04" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
+      <option name="PARAMETERS" value="mvar-grop.ear  groplus-war-3.10.04" />
+      <option name="WORKING_DIRECTORY" value="C:/environment/prj/grop/ear/target" />
+    </exec>
+  </tool>
 </toolSet>
