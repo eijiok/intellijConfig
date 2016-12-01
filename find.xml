@@ -20,8 +20,8 @@
       <mask>*.sql</mask>
       <mask>*.jsp,*.html,*.js</mask>
       <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
       <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
