@@ -27,7 +27,7 @@
       <option name="WORKING_DIRECTORY" value="C:/environment/prj/grop/ear/target" />
     </exec>
   </tool>
-  <tool name="extract_ear intcorp" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="extract_ear intcorp santander" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\environment\bat\extractear.bat" />
       <option name="PARAMETERS" />
