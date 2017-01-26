@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'intg'" />
     <option name="defaultScopeName" value="Project 'intg'" />
     <option name="SEARCH_SCOPE" value="Project 'intg'" />
-    <option name="FILE_MASK" value="schema.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,9 +21,9 @@
       <mask>*.jsp,*.html,*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.*</mask>
-      <mask>*.java</mask>
       <mask>pom.xml</mask>
       <mask>schema.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
