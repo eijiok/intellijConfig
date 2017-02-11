@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="org.springframework.web.bind.annotation.ExceptionHandler" />
