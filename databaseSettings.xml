@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="filters-history-size" value="30" />
     <csv-formats>
       <csv-format name="Tab Separated Values (TSV)">
         <data>
