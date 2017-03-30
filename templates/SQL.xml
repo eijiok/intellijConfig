@@ -1,0 +1,5 @@
+<templateSet group="SQL">
+  <template name="voltarsituacao" value="update tb_exec_obri set DH_FIM_REAL = null, SQ_SITU_EXEC_OBRI = $SITUACAO_EXECUCAO$ where sq_obri = 438;&#10;&#10;INSERT&#9;INTO&#9;tb_hist_exec_obri(SQ_HIST_EXEC_OBRI,&#9;DH_ATUA,&#9;SQ_SITU,&#9;SQ_FUNC,&#9;DE_COME,&#9;SQ_EXEC_OBRI,&#9;SQ_ACAO_EXEC,&#9;DH_ANTE_RPCT,&#9;DH_POST_RPCT)&#10;VALUES&#9;(TB_HIST_EXEC__SQ_HIST_EXEC_SEQ.NEXTVAL,&#9;SYSDATE,&#9;1,&#9;'605464',&#9;'retornando estado',&#9;783215,&#9;10,&#9;null,&#9;sysdate);&#10;" description="Voltando situação anterior" toReformat="false" toShortenFQNames="true">
+    <variable name="SITUACAO_EXECUCAO" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
